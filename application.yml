@@ -2,5 +2,5 @@ spring:
     application:
         name: greeting-service
 greeting-service:
-    greeting: "Olá"
-    default-value: "Dev"
+    greeting: "Remoto Principal"
+    default-value: "Nenhuma palavra passada por parametro"
